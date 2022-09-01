@@ -1,3 +1,2 @@
-
 #!/bin/bash
 sudo chmod --reference=0lleh hello
